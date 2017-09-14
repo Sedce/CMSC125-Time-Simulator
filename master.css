@@ -1,0 +1,30 @@
+
+.areas{
+    width: 700px;
+    height: 700px;
+    display: block;
+    float: left;
+}
+#UserHeader{
+  border-style: dotted;
+  border-radius: 1px;
+}
+#areas1 p{
+  margin: 0px;
+  margin-bottom: 1px;
+  background-color: #cdfbe3;
+  border-color: rgb(170,221,201);
+  border-radius: 1px;
+  border-style: solid;
+
+}
+#areas1 p:hover{
+
+  background-color: white;
+
+
+}
+#list_of_users {
+    border-style: dotted;
+    border-radius: 1px;
+}
